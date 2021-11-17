@@ -1,0 +1,26 @@
+Pablo Cristo14:02
+You will create two services for the bookstore.
+They should be able to create, read, update and delete resources.
+Service 1: Inventory.
+Book author (first name and last name).
+Book title.
+Number of copies inventory.
+Service 2: Orders.
+Client (first and last name).
+Order date.
+Number of ordered books.
+Pablo Cristo14:50
+IMPORTANT:
+Bronze Level must be entirely completed.
+Would be nice if you complete the Silver Level.
+Would be VERY nice if you complete the Gold level. 
+Create private repo on github, upload your solution and invite https://github.com/devpablocristo
+ 
+Create a RESTful API for a bookstore.
+Requirements:
+Bronze Level:  
+You will create two services for the bookstore.
+They should be able to create, read, update and delete resources.
+Service 1: Inventory.
+Book author (first name and last name).
+Book 
